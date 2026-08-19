@@ -1,7 +1,7 @@
 ## Hi I'm Svein 👋
 💻 Software Engineering student focused on building practical skills.
 
-I'm a 2nd-year **Software Engineering student at NTNU Ålesund**, currently learning how to design and build sofware step by step.
+I'm a 3rd-year **Software Engineering student at NTNU Ålesund**, currently learning how to design and build sofware step by step.
 Through my studies and projects, I'm gaining hands-on practice with:
 * Writing clean and structured Java code (JavaFX, Spring Boot, Maven).
 * Applying common **software design principles** to keep projects maintainable.
